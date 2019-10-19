@@ -34,7 +34,7 @@ A Pdio Systems é uma empresa sediada em Porto-Velho, Rondônia, e tem em seu co
 
 ## Introdução à Gestão Eletrônica de Documentos
 
-Gestão Eletrônica de Documentos tem como significado manter e gerir as informações de documentos em uma plataforma digital, independente da forma como estes documentos se apresenta (Lucca, 2006).
+Gestão Eletrônica de Documentos tem como significado manter e gerir as informações de documentos em uma plataforma digital, independente da forma como estes documentos se apresentam (Lucca, 2006).
 Para Andrade *apud* Lucca (2006), pode ser considerado também um método, ou mesmo um sistema, tecnologia para a conversão e processamento de documentos na forma digital.
 É importante diferenciar o conceito da Gestão Eletrônica de Documentos do Gerenciamento de Informações de Conteúdo.
 
