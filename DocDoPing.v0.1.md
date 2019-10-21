@@ -36,7 +36,7 @@ A Pdio Systems é uma empresa sediada em Porto-Velho, Rondônia, e tem em seu co
 Gestão Eletrônica de Documentos tem como significado manter e gerir as informações de documentos em uma plataforma digital, independente da forma como estes documentos se apresenta (Lucca, 2006). 
 Para Andrade *apud* Lucca (2006), pode ser considerado também um método, ou mesmo um sistema, tecnologia para a conversão e processamento de documentos na forma digital. 
 É importante diferenciar o conceito da Gestão Eletrônica de Documentos do Gerenciamento de Informações de Conteúdo. A Gestão Eletrônica de Documentos trata dos dados relativos aos documentos armazenados no sistema, os metadados, dados gerenciais e contextuais dos arquivos. No Gerenciamento de Informações de Conteúdo, o conteúdo dos documentos também é considerado, seja para organização dos arquivos, gestão da informação ou buscas eficientes. 
-O Ping. executa estas duas tarefas, organizando os documentos inseridos no sistema com metadados e dados contextuais inseridos pelo usuário, assim como indexa e organiza para a pesquisa o conteúdo dos arquivos, tratando de forma segura o acesso a cada uma destas informações armazenadas por meio do seu sistema de acesso, baseado em credenciais únicas por usuário. 
+O Ping. executa estas duas tarefas, organizando os documentos inseridos no sistema com metadados e dados contextuais inseridos pelo usuário. Assim como indexa e organiza para a pesquisa o conteúdo dos arquivos, tratando de forma segura o acesso a cada uma destas informações armazenadas por meio do seu sistema de acesso, baseado em credenciais únicas por usuário. 
 
 ## O que é o "Ping."?
 
@@ -119,6 +119,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFBpbmcuIERvY3VtZW50Yc
 Onw6NvIGRvIFVzdcOhcmlvXG5hdXRob3I6IENsYXl0b24gRyBD
 IFNhbnRvc1xudGFnczogUGluZy4gUGRpbyBQcm9jZXNzbyBEb2
 N1bWVudG8gRWxldHLDtG5pY29cbmRhdGU6ICcyMDE5LTEwLTIw
-J1xuIiwiaGlzdG9yeSI6WzM3MDQ3NjQ5Miw2OTE0OTcwLDIwOT
-I1NTY4OTAsMTE0ODkxNzA3OCwtNzIzMzEzNjJdfQ==
+J1xuIiwiaGlzdG9yeSI6Wy05MjUwMDY5NCwzNzA0NzY0OTIsNj
+kxNDk3MCwyMDkyNTU2ODkwLDExNDg5MTcwNzgsLTcyMzMxMzYy
+XX0=
 -->
