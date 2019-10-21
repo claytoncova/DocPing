@@ -60,7 +60,7 @@ Para efetuar o primeiro acesso, basta acessar o link "Acessar o PING" e, com o *
 
 ![Tela de login inicial.](https://raw.githubusercontent.com/claytoncova/DocPing/master/2-login.png)
 
-
+Na tela apresentada acima, deve-se inserir inicialmente o email e clicar no botão "Próximo". 
 
 ### Alterando a sua senha.
 
@@ -114,6 +114,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFBpbmcuIERvY3VtZW50Yc
 Onw6NvIGRvIFVzdcOhcmlvXG5hdXRob3I6IENsYXl0b24gRyBD
 IFNhbnRvc1xudGFnczogUGluZy4gUGRpbyBQcm9jZXNzbyBEb2
 N1bWVudG8gRWxldHLDtG5pY29cbmRhdGU6ICcyMDE5LTEwLTIw
-J1xuIiwiaGlzdG9yeSI6Wy0yNzIzOTMzNDAsLTcyMzMxMzYyXX
+J1xuIiwiaGlzdG9yeSI6Wy04MDkwMjQxODcsLTcyMzMxMzYyXX
 0=
 -->
