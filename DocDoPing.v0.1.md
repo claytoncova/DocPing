@@ -62,7 +62,8 @@ Para efetuar o primeiro acesso, basta acessar o link "Acessar o PING" e, com o *
 
 Na tela apresentada acima, deve-se inserir inicialmente o email e clicar no botão "Próximo". Na sequência será solicitada a senha, que deverá ser inserida como consta no email de cadastro. Deve se clicar no botão "Acessar" para validar o acesso.
 
-Após a validação você estará logado na plataforma Ping. e será encaminhado para alteração de Senha. Este passo se faz importante para que seja inserida uma senha de sua escolha, que deverá ser pessoal e intransferível. Por questões de segurança deverá ser escolhida uma senha com fator de complexidade na sua composição, ou senha, senhas que alternem letras minúsculas, maiúsculas, números e caracteres especiais (Ex.: !@#$%ˆ*), com tamanho mínimo de 8 caracteres. Estes cuidados são imprescindíveis para 
+Após a validação você estará logado na plataforma Ping. e será encaminhado para alteração de Senha. Este passo se faz importante para que seja inserida uma senha de sua escolha, que deverá ser pessoal e intransferível. Por questões de segurança deverá ser escolhida uma senha com fator de complexidade na sua composição, ou senha, senhas que alternem letras minúsculas, maiúsculas, números e caracteres especiais (Ex.: !@#$%ˆ*), com tamanho mínimo de 8 caracteres. 
+Estes cuidados são imprescindíveis para que a sua credencial de acesso seja robusta o suficiente para garantir a segurança de sua assinatura dentro da plataforma. Afinal, sua senha será a base para a autenticação de documentos assinados pelo seu usuário. 
 
 ### Alterando a sua senha.
 
@@ -116,6 +117,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFBpbmcuIERvY3VtZW50Yc
 Onw6NvIGRvIFVzdcOhcmlvXG5hdXRob3I6IENsYXl0b24gRyBD
 IFNhbnRvc1xudGFnczogUGluZy4gUGRpbyBQcm9jZXNzbyBEb2
 N1bWVudG8gRWxldHLDtG5pY29cbmRhdGU6ICcyMDE5LTEwLTIw
-J1xuIiwiaGlzdG9yeSI6WzEyNTYxMjU3MjYsLTcyMzMxMzYyXX
-0=
+J1xuIiwiaGlzdG9yeSI6Wy0xMjM4NjA0NzMwLC03MjMzMTM2Ml
+19
 -->
