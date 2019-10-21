@@ -61,7 +61,8 @@ Para efetuar o primeiro acesso, basta acessar o link "Acessar o PING" e, com o *
 ![Tela de login inicial.](https://raw.githubusercontent.com/claytoncova/DocPing/master/2-login.png)
 
 Na tela apresentada acima, deve-se inserir inicialmente o email e clicar no botão "Próximo". Na sequência será solicitada a senha, que deverá ser inserida como consta no email de cadastro. Deve se clicar no botão "Acessar" para validar o acesso.
-Após a validação você estar
+
+Após a validação você estará logado na plataforma Ping. e será encaminhado para alteração de Senha. Este passo se faz importante para que seja inserida uma senha de sua escolha, que deverá ser pessoal e intransferível. Por questões de segurança deverá ser escolhida uma senha com fator de seguran
 
 ### Alterando a sua senha.
 
@@ -115,6 +116,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFBpbmcuIERvY3VtZW50Yc
 Onw6NvIGRvIFVzdcOhcmlvXG5hdXRob3I6IENsYXl0b24gRyBD
 IFNhbnRvc1xudGFnczogUGluZy4gUGRpbyBQcm9jZXNzbyBEb2
 N1bWVudG8gRWxldHLDtG5pY29cbmRhdGU6ICcyMDE5LTEwLTIw
-J1xuIiwiaGlzdG9yeSI6Wy0yMDQxNDgxOTEyLC03MjMzMTM2Ml
-19
+J1xuIiwiaGlzdG9yeSI6Wy02MjA0ODA2NzUsLTcyMzMxMzYyXX
+0=
 -->
