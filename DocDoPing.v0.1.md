@@ -25,7 +25,7 @@ Esta forma de distribuição traz algumas vantagens para o uso:
 * Suporte: todo o suporte ao usuário é feito pela equipe da Pdio, que prestará o serviço ao contratante e atenderá o usuário final para o uso da ferramenta. 
 * Confiabilidade: graças a arquitetura em nuvem, os serviços da plataforma Ping. ficam disponíveis 24/7 e os dados produzidos e gerados pelos usuários ficam em ambiente de baixo risco para perda de dados, o que significa que backups e a proteção dos dados de processos e documentos já ficam garantidos nativamente.
 * Acesso facilitado: uma vez a plataforma disponível em ambiente de nuvem, o acesso ao Ping. pode ocorrer a qualquer tempo, em qualquer lugar que tenha conexão com a Internet, sendo possível por exemplo, criar, assinar e tramitar documentos da organização em qualquer situação, por exemplo, durante viagens. 
-* Os documentos e processos criados na plataforma, caso necessário, podem ser impressos e manterão a sua validade, sendo possível checar a autenticidade do documento por meio do código de documento e o código verificador, na página do Ping. 
+* Validação: os documentos e processos criados na plataforma, caso necessário, podem ser impressos e manterão a sua validade, sendo possível checar a autenticidade do documento por meio do código de documento e o código verificador, na página do Ping. 
 
 ### Pdio Systems - Quem Somos. 
 
@@ -119,6 +119,6 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFBpbmcuIERvY3VtZW50Yc
 Onw6NvIGRvIFVzdcOhcmlvXG5hdXRob3I6IENsYXl0b24gRyBD
 IFNhbnRvc1xudGFnczogUGluZy4gUGRpbyBQcm9jZXNzbyBEb2
 N1bWVudG8gRWxldHLDtG5pY29cbmRhdGU6ICcyMDE5LTEwLTIw
-J1xuIiwiaGlzdG9yeSI6WzY5MTQ5NzAsMjA5MjU1Njg5MCwxMT
-Q4OTE3MDc4LC03MjMzMTM2Ml19
+J1xuIiwiaGlzdG9yeSI6WzM3MDQ3NjQ5Miw2OTE0OTcwLDIwOT
+I1NTY4OTAsMTE0ODkxNzA3OCwtNzIzMzEzNjJdfQ==
 -->
