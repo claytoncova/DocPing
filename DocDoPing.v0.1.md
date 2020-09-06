@@ -1,6 +1,6 @@
-# Ping. Manual do Usuário. `v0.1`
+# Documentação do Ping. V.2.0
 
-Data da última revisão: `29 de Setembro de 2019.`
+Data da última revisão: `01 de Setembro de 2020.`
 
 O presente manual destina-se para uso em treinamento da ferramenta Ping. bem como para consulta a qualquer tempo dos recursos e *features* pelos seus usuários, ao longo do uso. Sugestões, dúvidas e erros constatados por favor entrar em contato com a equipe do Ping. pelo e-mail suporte@pdio.com.br ou mesmo pelo sítio da Internet meuping.org/contatos. Seu *feedback* e sua opinião são muito importantes para nós!
 
@@ -25,7 +25,7 @@ Esta forma de distribuição traz algumas vantagens para o uso:
 * Suporte: todo o suporte ao usuário é feito pela equipe da Pdio, que prestará o serviço ao contratante e atenderá o usuário final para o uso da ferramenta. 
 * Confiabilidade: graças a arquitetura em nuvem, os serviços da plataforma Ping. ficam disponíveis 24/7 e os dados produzidos e gerados pelos usuários ficam em ambiente de baixo risco para perda de dados, o que significa que backups e a proteção dos dados de processos e documentos já ficam garantidos nativamente.
 * Acesso facilitado: uma vez a plataforma disponível em ambiente de nuvem, o acesso ao Ping. pode ocorrer a qualquer tempo, em qualquer lugar que tenha conexão com a Internet, sendo possível por exemplo, criar, assinar e tramitar documentos da organização em qualquer situação, por exemplo, durante viagens. 
-* Validação: os documentos e processos criados na plataforma, caso necessário, podem ser impressos e manterão a sua validade, sendo possível checar a autenticidade do documento por meio do código de documento e o código verificador, na página do Ping. 
+* Os documentos e processos criados na plataforma, caso necessário, podem ser impressos e manterão a sua validade, sendo possível checar a autenticidade do documento por meio do código de documento e o código verificador, na página do Ping. 
 
 ### Pdio Systems - Quem Somos. 
 
@@ -36,7 +36,7 @@ A Pdio Systems é uma empresa sediada em Porto-Velho, Rondônia, e tem em seu co
 Gestão Eletrônica de Documentos tem como significado manter e gerir as informações de documentos em uma plataforma digital, independente da forma como estes documentos se apresenta (Lucca, 2006). 
 Para Andrade *apud* Lucca (2006), pode ser considerado também um método, ou mesmo um sistema, tecnologia para a conversão e processamento de documentos na forma digital. 
 É importante diferenciar o conceito da Gestão Eletrônica de Documentos do Gerenciamento de Informações de Conteúdo. A Gestão Eletrônica de Documentos trata dos dados relativos aos documentos armazenados no sistema, os metadados, dados gerenciais e contextuais dos arquivos. No Gerenciamento de Informações de Conteúdo, o conteúdo dos documentos também é considerado, seja para organização dos arquivos, gestão da informação ou buscas eficientes. 
-O Ping. executa estas duas tarefas, organizando os documentos inseridos no sistema com metadados e dados contextuais inseridos pelo usuário. Assim como indexa e organiza para a pesquisa o conteúdo dos arquivos, tratando de forma segura o acesso a cada uma destas informações armazenadas por meio do seu sistema de acesso, baseado em credenciais únicas por usuário. 
+O Ping. executa estas duas tarefas, organizando os documentos inseridos no sistema com metadados e dados contextuais inseridos pelo usuário, assim como indexa e organiza para a pesquisa o conteúdo dos arquivos, tratando de forma segura o acesso a cada uma destas informações armazenadas por meio do seu sistema de acesso, baseado em credenciais únicas por usuário. 
 
 ## O que é o "Ping."?
 
@@ -61,11 +61,9 @@ Para efetuar o primeiro acesso, basta acessar o link "Acessar o PING" e, com o *
 ![Tela de login inicial.](https://raw.githubusercontent.com/claytoncova/DocPing/master/2-login.png)
 
 Na tela apresentada acima, deve-se inserir inicialmente o email e clicar no botão "Próximo". Na sequência será solicitada a senha, que deverá ser inserida como consta no email de cadastro. Deve se clicar no botão "Acessar" para validar o acesso.
-
 ![enter image description here](https://raw.githubusercontent.com/claytoncova/DocPing/master/3-login-2.png)
-
 Após a validação você estará logado na plataforma Ping. e será encaminhado para alteração de Senha. Este passo se faz importante para que seja inserida uma senha de sua escolha, que deverá ser pessoal e intransferível. Por questões de segurança deverá ser escolhida uma senha com fator de complexidade na sua composição, ou senha, senhas que alternem letras minúsculas, maiúsculas, números e caracteres especiais (Ex.: !@#$%ˆ*), com tamanho mínimo de 8 caracteres. 
-Estes cuidados são imprescindíveis para que a sua credencial de acesso seja robusta o suficiente para garantir a segurança de sua assinatura dentro da plataforma. Afinal, sua senha será a base para a autenticação de documentos assinados por você. 
+Estes cuidados são imprescindíveis para que a sua credencial de acesso seja robusta o suficiente para garantir a segurança de sua assinatura dentro da plataforma. Afinal, sua senha será a base para a autenticação de documentos assinados pelo seu usuário. 
 
 ### Alterando a sua senha.
 
@@ -114,12 +112,3 @@ c. Como utilizar o Google Authenticator.
 ANCONA LOPEZ, André Porto. Princípios arquivísticos e documentos digitais. 2004.
 
 LUCCA, Giana; CHARÃO, Andrea Schwertner; STEIN, Benhur de Oliveira. Metadados para um sistema de gestão eletrônica de documentos arquivísticos. **Arquivística. net, Rio de Janeiro**, v. 2, n. 1, p. 70-84, 2006.
-<!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFBpbmcuIERvY3VtZW50Yc
-Onw6NvIGRvIFVzdcOhcmlvXG5hdXRob3I6IENsYXl0b24gRyBD
-IFNhbnRvc1xudGFnczogUGluZy4gUGRpbyBQcm9jZXNzbyBEb2
-N1bWVudG8gRWxldHLDtG5pY29cbmRhdGU6ICcyMDE5LTEwLTIw
-J1xuIiwiaGlzdG9yeSI6Wy05MjUwMDY5NCwzNzA0NzY0OTIsNj
-kxNDk3MCwyMDkyNTU2ODkwLDExNDg5MTcwNzgsLTcyMzMxMzYy
-XX0=
--->
