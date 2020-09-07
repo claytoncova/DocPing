@@ -54,15 +54,15 @@ Por meio de visitas técnicas e entrevistas, os processos escolhidos pelo client
 Uma vez os usuários criados, eles serão habilitados, ou seja, colocados nos setores virtuais correspondentes ao organograma da companhia. Este processo é feito pela equipe técnica da Pdio, preparando o usuário para o primeiro login e para o envio das credenciais do primeiro acesso por email.
 
 
-![E-mail de confirmação de Cadastro.](https://raw.githubusercontent.com/claytoncova/DocPing/master/1-email.png)
+![E-mail de confirmação de Cadastro.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/1-email.png)
 
 Para efetuar o primeiro acesso, basta acessar o link "Acessar o PING" e, com o **Login** e a **Senha** enviados, efetuar a autenticação na tela de login da plataforma. 
 
-![Tela de login inicial.](https://raw.githubusercontent.com/claytoncova/DocPing/master/2-login.png)
+![Tela de login inicial.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/2-login.png)
 
 Na tela apresentada acima, deve-se inserir inicialmente o email e clicar no botão "Próximo". Na sequência será solicitada a senha, que deverá ser inserida como consta no email de cadastro. Deve se clicar no botão "Acessar" para validar o acesso.
 
-![Inserção da Senha.](https://raw.githubusercontent.com/claytoncova/DocPing/master/3-login-2.png)
+![Inserção da Senha.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/3-login-2.png)
 
 Após a validação você estará logado na plataforma Ping. e será encaminhado para alteração de Senha. Este passo se faz importante para que seja inserida uma senha de sua escolha, que deverá ser pessoal e intransferível. Por questões de segurança deverá ser escolhida uma senha com fator de complexidade na sua composição, ou senha, senhas que alternem letras minúsculas, maiúsculas, números e caracteres especiais (Ex.: !@#$%ˆ*), com tamanho mínimo de 8 caracteres. 
 Estes cuidados são imprescindíveis para que a sua credencial de acesso seja robusta o suficiente para garantir a segurança de sua assinatura dentro da plataforma. Afinal, sua senha será a base para a autenticação de documentos assinados pelo seu usuário. 
