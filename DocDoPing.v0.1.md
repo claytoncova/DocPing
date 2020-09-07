@@ -19,7 +19,7 @@ A ferramenta **Ping.** será o seu primeiro degrau para o mundo do processo digi
 * **Acessível**: além de uma plataforma intuitiva e de rápida resposta, o Ping. é acessível de qualquer lugar que tenha conexão com a Internet, podendo ser utilizado a partir de equipamentos diversos como notebooks, smartphones e tablets. 
 * **Integração**: mediante demanda específica é possível a integração da plataforma com outros software corporativos, permitindo adequação da aplicação dentro do fluxo de trabalho da instituição, auxiliando o desenvolvimento dos trabalhos corporativos dentro do Ping. bem como também a cultura e os recursos já implantados. 
 
-O **Ping.** foi concebido para funcionamento em nuvem, especificamente como SaaS (*Software as a Service*, Software como Serviço em português). Ou seja, seu funcionamento na forma nativa depende somente de um computador e da conectividade com a Internet e sua contratação é feita como serviço, por pagamento mensal, assim como serviços de músicas e filmes on-line, muito comuns atualmente. 
+O **Ping.** foi concebido para funcionamento em nuvem, especificamente como SaaS (*Software as a Service*, Aplicativo como Serviço em português). Ou seja, seu funcionamento na forma nativa depende somente de um computador e da conectividade com a Internet e sua contratação é feita como serviço, por pagamento mensal, assim como serviços de músicas e filmes on-line, muito comuns atualmente. 
 Esta forma de distribuição traz algumas vantagens para o uso:
 * Independência da Infraestrutura: não é preciso possuir ambiente de Datacenter disponível para hospedar a plataforma, todo o custo relativo ao ambiente de TI está incluído no curso do serviço;
 * Suporte: todo o suporte ao usuário é feito pela equipe da Pdio, que prestará o serviço ao contratante e atenderá o usuário final para o uso da ferramenta. 
@@ -29,7 +29,7 @@ Esta forma de distribuição traz algumas vantagens para o uso:
 
 ### Pdio Systems - Quem Somos. 
 
-A Pdio Systems é uma empresa sediada em Porto-Velho, Rondônia, e tem em seu corpo técnico um grupo de experientes profissionais das áreas de Tecnologia da Informação, Administração Pública e Jurídica. Este grupo de técnicos, com expertise em grandes projetos no setor público, trabalha em aplicações que transformem seus clientes, agregando as soluções mais adequadas e inovadoras, incluindo as do campo da Gestão de Documentos e Processos, proporcionando eficiência de trabalho, economia de recursos e foco no negócio do contratante. 
+A Pdio Systems é uma empresa sediada em Porto-Velho, Rondônia, e tem em seu corpo técnico um grupo de experientes profissionais das áreas de Tecnologia da Informação, Administração Pública e Ciências Jurídicas. Este grupo de técnicos, com expertise em grandes projetos no setor público, trabalha em aplicações que transformem seus clientes, agregando as soluções mais adequadas e inovadoras, incluindo as do campo da Gestão de Documentos e Processos, proporcionando eficiência de trabalho, economia de recursos e foco no negócio do contratante. 
 
 ## Introdução à Gestão Eletrônica de Documentos
 
@@ -41,41 +41,62 @@ O Ping. executa estas duas tarefas, organizando os documentos inseridos no siste
 ## O que é o "Ping."?
 
 O Ping. é uma plataforma de Gestão e Gerenciamento de Processos e Documentos, que permite à organização armazenar, manter e disponibilizar documentos para seus usuários, clientes, fornecedores, parceiros externos diversos, incluindo a publicação, se desejado. Viabiliza a organização dos dados de forma estruturada e indexada, o que permite a localização rápida da informação, pesquisa por conteúdo e tramitação de forma totalmente digital. 
-Os dados armazenados na plataforma são identificados em documentos únicos, atrelados aos processos digitais com numeração controlada e que podem ser tramitados entre setores ou usuários externos, como fornecedores, terceirizados e etc. 
+Os dados armazenados na plataforma são identificados como documentos únicos, atrelados aos processos digitais com numeração controlada e que podem ser tramitados entre setores ou usuários externos, como fornecedores, terceirizados e etc. 
 O Ping. é uma aplicação web, o que significa que funciona a partir de um navegador de Internet, sem a necessidade de instalação de qualquer software adicional. Ele foi desenvolvido com foco na simplicidade, utilizando-se das tecnologias mais atuais do mercado, considerando as melhores práticas corporativas e confiáveis, no que se refere à segurança e robustez de um software que roda em nuvem. 
 
 ## Configurações no Sistema
 
 A configuração inicial do sistema é feita por meio da criação de instância do cliente. Após a definição automática do ambiente do novo ambiente, caso seja parte do contratado, a equipe de engenharia de software da Pdio realiza o levantamento de dados e parametrização da instância. 
-Por meio de visitas técnicas e entrevistas, os processos escolhidos pelo cliente são mapeados (documentos físicos), os documentos importados, usuários criados e habilitados. A partir deste ponto a plataforma estará pronta para utilização.  
+Por meio de visitas técnicas e entrevistas, os processos escolhidos pelo cliente são mapeados (documentos físicos), os documentos importados, usuários criados e habilitados. A partir deste ponto a plataforma estará pronta para utilização.
 
 ### Acessando o sistema pela primeira vez!
 
-Uma vez os usuários criados, eles serão habilitados, ou seja, colocados nos setores virtuais correspondentes ao organograma da companhia. Este processo é feito pela equipe técnica da Pdio, preparando o usuário para o primeiro login e para o envio das credenciais do primeiro acesso por email. 
+Uma vez os usuários criados, eles serão habilitados, ou seja, colocados nos setores virtuais correspondentes ao organograma da companhia. Este processo é feito pela equipe técnica da Pdio, preparando o usuário para o primeiro login e para o envio das credenciais do primeiro acesso por email.
 
 
-![E-mail de confirmação de Cadastro.](https://raw.githubusercontent.com/claytoncova/DocPing/master/1-email.png)
+![E-mail de confirmação de Cadastro.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/1-email.png)
 
 Para efetuar o primeiro acesso, basta acessar o link "Acessar o PING" e, com o **Login** e a **Senha** enviados, efetuar a autenticação na tela de login da plataforma. 
 
-![Tela de login inicial.](https://raw.githubusercontent.com/claytoncova/DocPing/master/2-login.png)
+![Tela de login inicial.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/2-login.png)
 
 Na tela apresentada acima, deve-se inserir inicialmente o email e clicar no botão "Próximo". Na sequência será solicitada a senha, que deverá ser inserida como consta no email de cadastro. Deve se clicar no botão "Acessar" para validar o acesso.
-![enter image description here](https://raw.githubusercontent.com/claytoncova/DocPing/master/3-login-2.png)
+
+![Inserção da Senha.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/3-login-2.png)
+
 Após a validação você estará logado na plataforma Ping. e será encaminhado para alteração de Senha. Este passo se faz importante para que seja inserida uma senha de sua escolha, que deverá ser pessoal e intransferível. Por questões de segurança deverá ser escolhida uma senha com fator de complexidade na sua composição, ou senha, senhas que alternem letras minúsculas, maiúsculas, números e caracteres especiais (Ex.: !@#$%ˆ*), com tamanho mínimo de 8 caracteres. 
 Estes cuidados são imprescindíveis para que a sua credencial de acesso seja robusta o suficiente para garantir a segurança de sua assinatura dentro da plataforma. Afinal, sua senha será a base para a autenticação de documentos assinados pelo seu usuário. 
 
 ### Alterando a sua senha.
 
+No primeiro acesso, o sistema redireciona o usuário para a troca de senha. A senha enviada para o e-mail do novo cadastro é gerada automaticamente e deve ser alterada no primeiro acesso. 
+
+Recomendamos que os novos usuários alterem suas senhas nesse momento.
+
+![Troca de senha.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/tela_troca_senha1.png)
+
+A qualquer momento, e a partir de qualquer tela, o usuário pode efetuar a troca de senha pelo **menu do usuário**, seção superior direita da tela. Clique no botão que apresenta o nome do usuário, em seguida selecione a opção "**Senha e Segurança**". 
+
+![Inserção da senha.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/opcoes_usuario1.png)
+
+Uma outra opção do menu do usuário é a edição dos dados pessoais. Para acessar esta configuração, clique novamente no **menu do usuário**, em seguida a opção "**Alterar meus dados**"
+
+![Inserção da senha.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/opcoes_dados_usuarios1.png)
+
+A depender das permissões do usuário no sistema, somente alguns campos estarão disponíveis para edição. Recomenda-se manter os dados de usuários atualizados.
+
 ### Opções na autenticação.
 
 a. Resetando a sua senha.
+
 b. Solicitar recuperação de senha.
 
 ### Autenticação de 2 fatores (2FA - Two Factor Authentication)
 
 a. Habilitando a autenticação 2FA.
+
 b. Baixando e configurando o Google Authenticator.
+
 c. Como utilizar o Google Authenticator. 
 
 ### 
