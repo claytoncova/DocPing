@@ -75,7 +75,9 @@ Recomendamos que os novos usuários alterem suas senhas nesse momento.
 
 ![Troca de senha.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/tela_troca_senha1.png)
 
-A qualquer momento, e a partir de qualquer tela, o usuário pode efetuar a troca de senha pelo **menu do usuário**, seção superior direita da tela. Clique no botão que apresenta o nome do usuário, em seguida selecione a opção "**Senha e Segurança**". 
+A qualquer momento, e a partir de qualquer tela, o usuário pode efetuar a troca de senha pelo **menu do usuário**, seção superior direita da tela. 
+
+Clique no botão que apresenta o nome do usuário, em seguida selecione a opção "**Senha e Segurança**". 
 
 ![Inserção da senha.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/opcoes_usuario1.png)
 
@@ -101,11 +103,11 @@ Confirmação do envio do e-mail.
 
 ### Autenticação de 2 fatores (2FA - *Two Factor Authentication*)
 
-A autenticação de 2 fatores é um recurso de segurança adicional para os usuários do Ping., que agrega maior proteção para as credenciais utilizadas no acesso ao sistema e na assinatura de documentos. Em alguns casos especiais, imprescindível para usuários que tomam decisões ou executam atos administrativos e financeiros de alta relevância para a organização. 
+A autenticação de 2 fatores é um recurso de segurança adicional para os usuários do Ping., que agrega maior proteção para o uso do sistema e na assinatura de documentos. Em alguns casos especiais, é imprescindível para usuários que tomam decisões ou executam atos administrativos e financeiros de alta relevância para a organização. 
 
 Para usuários gestores e tomadores de decisão, é aconselhado a habilitação deste recurso. 
 
-O 2 fator de autenticação inclui como requisito para autenticação no sistema a inserção da senha do usuário e de um código de segurança (*token*), gerado pelo aplicativo "**Google Authenticator**". 
+O 2º fator de autenticação inclui como requisito para autenticação no sistema a inserção da senha do usuário e de um **código de segurança** (*token*), gerado pelo aplicativo "**Google Authenticator**". 
 
 Este aplicativo precisa ser instalado em um smartphone pessoal do usuário cadastrado, associando a conta Ping. com o aplicativo no smartphone. 
 
@@ -131,13 +133,19 @@ O aplicativo iniciará a câmera do smartphone. Neste momento você deve acessar
 
 Na tela de alteração de senha do Ping. clique na opção "**Ativar**" na área da "**Autenticação em 2 etapas (2FA)**".
 
-![2FA Habilitado.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/tela_troca_senha2.png)
+Neste momento o Ping. apresentará um QR Code (código de barras).
 
-Neste momento o Ping. apresentará um QR Code (código de barras). 
+![2FA Habilitado.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/tela_troca_senha2.png) 
 
 Aponte a câmera do smartphone para o código, permitindo que o aplicativo Google Authenticator faça a associação, criando o token do seu acesso Ping. no app.  
 
-### 
+Uma vez habilitado e configurado, para toda ação de login ou assinatura de documentos dentro do Ping. o sistema solicitará um código de seis dígitos além da senha. 
+
+Para logar e assinar documentos, tenha em mãos o smartphone configurado com a conta Ping. Abra o Google Authenticator visualize e insira o código apresentado no campo correspontente no Ping. 
+
+![2FA Login.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/tela_login_2fa.png)
+
+Observação: os códigos são *tokens* temporários e são alterados a cada 30 segundos.
 
 ## Uso do Sistema
 
