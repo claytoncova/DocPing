@@ -58,11 +58,11 @@ Uma vez os usuários criados, eles serão habilitados, ou seja, colocados nos se
 
 Para efetuar o primeiro acesso, basta acessar o link "Acessar o PING" e, com o **Login** e a **Senha** enviados, efetuar a autenticação na tela de login da plataforma. 
 
-![Tela de login inicial.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/2-login.png)
+![Tela de login inicial.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/login1.png)
 
 Na tela apresentada acima, deve-se inserir inicialmente o email e clicar no botão "Próximo". Na sequência será solicitada a senha, que deverá ser inserida como consta no email de cadastro. Deve se clicar no botão "Acessar" para validar o acesso.
 
-![Inserção da Senha.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/3-login-2.png)
+![Inserção da Senha.](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/login2.png)
 
 Após a validação você estará logado na plataforma Ping. e será encaminhado para alteração de Senha. Este passo se faz importante para que seja inserida uma senha de sua escolha, que deverá ser pessoal e intransferível. Por questões de segurança deverá ser escolhida uma senha com fator de complexidade na sua composição, ou senha, senhas que alternem letras minúsculas, maiúsculas, números e caracteres especiais (Ex.: !@#$%ˆ*), com tamanho mínimo de 8 caracteres. 
 Estes cuidados são imprescindíveis para que a sua credencial de acesso seja robusta o suficiente para garantir a segurança de sua assinatura dentro da plataforma. Afinal, sua senha será a base para a autenticação de documentos assinados pelo seu usuário. 
@@ -149,7 +149,14 @@ Observação: os códigos são *tokens* temporários e são alterados a cada 30 
 
 ## Uso do Sistema
 
+Modo abas:
+![Mesa de trabalho modo abas](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/modo_abas2.png)
+Modo grade:
+![Mesa de trabalho modo grade](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/mesa_trabalho.png)
+
 ### Unidades Administrativas
+
+![Seletor de Mesa dos Setores](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/setores1.png)
 
 ### Menu Superior
 #### Menu de Usuário 
