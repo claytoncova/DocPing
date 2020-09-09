@@ -149,21 +149,46 @@ Observação: os códigos são *tokens* temporários e são alterados a cada 30 
 
 ## Uso do Sistema
 
+A tela principal do Ping. representa uma mesa de trabalho compartilhada por todos os usuários do setor. A ideia dessa abordagem é manter a informação sobre processos do setor compartilhado entre todos os colaboradores. 
+
+Essa forma de tratar os processos auxilia o processo colaborativo e mantém a inteligência de negócios entre todos os envolvidos, minimizando interrupções ou pausas no fluxo do trabalho em razão de ausências ou remanejamento da força de trabalho. 
+
+Cada processo pode ser atribuído a um usuário do sistema, de forma a permitir a divisão das atividades ou responsabilidades sobre os processos. A atribuição pode ser alterada a qualquer tempo e fica registrada na capa do processo, seção de andamento. 
+
+### Mesa de Trabalho
+
+Esta é a seção do Ping. que será a mais frequentada. Ela representa a mesa de trabalho no setor e ograniza todos os processos abertos e em trâmite na unidade organizacional. 
+
+Cada setor possui uma mesa de trabalho. Caso o usuário esteja configurado para acessar mais de um setor, na mudança entre setores a mesa de trabalho será alterada de forma correspondente. 
+
+Os processos na mesa de trabalho são classificados em dois tipos básicos:
+ - Processos recebidos: processos enviados para o setor para prosseguimento;
+ - Processos gerados: processos criados no setor, demandas originadas por colaboradores ou atividades da área.
+
+O grupo de processos recebidos são a porta de entrada das demandas do setor, assim que chega um novo processo ele ficará em destaque, de forma similar a uma ferramenta de e-mail. Assim que qualquer colaborador acessar o processo recém encaminhado o sistema atribuirá o processo ao usuário receptor. 
+
+O grupo de processos gerados é o local em que os processos são montados, para tramitação e despacho. O sistema atribui o processo recém criado ao usuário criador.
+
+A mesa de trabalho pode ser configurada de duas formas pelos botões "Abas" e "Grade" localizados na parte superior direita da tela, abaixo do menu do usuário.
+
 Modo abas:
 ![Mesa de trabalho modo abas](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/modo_abas2.png)
+Neste modo privilegia-se a visão da descrição e do tipo dos processos, apresentando a quantidade e grupo de processos nas abas de apresentação.
+
 Modo grade:
 ![Mesa de trabalho modo grade](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/mesa_trabalho.png)
+O modo grade permite a visão total dos processos e a aplicação de ações em massa (botões cinza) em qualquer processo da mesa de trabalho, facilitando definições que precisam alcançar vários processos, como atribuir, enviar, fechar, etc. 
 
 ### Unidades Administrativas
 
 ![Seletor de Mesa dos Setores](https://raw.githubusercontent.com/claytoncova/DocPing/master/images/setores1.png)
+
 
 ### Menu Superior
 #### Menu de Usuário 
 #### Barra de buscas
 #### Seleção de Unidade Administrativa
 
-### Mesa de Trabalho
 
 ### Novo Processo
 
@@ -171,7 +196,7 @@ Modo grade:
 
 ### Tela do Documento
 
-### Ações em Lote
+### Ações em Massa
 
 ### Assinaturas Pendentes
 
